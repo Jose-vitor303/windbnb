@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/windbnb/static/css/main.027eb233.css",
+    "main.js": "/windbnb/static/js/main.add5e082.js",
+    "static/js/787.09a84bc1.chunk.js": "/windbnb/static/js/787.09a84bc1.chunk.js",
+    "index.html": "/windbnb/index.html",
+    "static/media/star.svg": "/windbnb/static/media/star.b32d7a64b119d0cce7b85514556df8be.svg",
+    "static/media/search.svg": "/windbnb/static/media/search.56982c1a4d1ef20556e024945d6badc1.svg",
+    "main.027eb233.css.map": "/windbnb/static/css/main.027eb233.css.map",
+    "main.add5e082.js.map": "/windbnb/static/js/main.add5e082.js.map",
+    "787.09a84bc1.chunk.js.map": "/windbnb/static/js/787.09a84bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.027eb233.css",
+    "static/js/main.add5e082.js"
+  ]
+}
